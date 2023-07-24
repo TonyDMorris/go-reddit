@@ -1,0 +1,209 @@
+{
+  "items": {
+    "widget_15p7borvnnw5a": {
+      "styles": {
+        "headerColor": "#373c3f",
+        "backgroundColor": "#cc5289"
+      },
+      "kind": "textarea",
+      "textHtml": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;test text&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+      "text": "test text",
+      "shortName": "test title",
+      "id": "widget_15p7borvnnw5a"
+    },
+    "widget_15paxrbiodp8v": {
+      "styles": {
+        "headerColor": "",
+        "backgroundColor": ""
+      },
+      "kind": "button",
+      "description": "test description",
+      "buttons": [
+        {
+          "kind": "text",
+          "hoverState": {
+            "color": "#000000",
+            "text": "test text",
+            "kind": "text",
+            "textColor": "#000000",
+            "fillColor": "#00a6a5"
+          },
+          "url": "https://example.com",
+          "text": "test text",
+          "color": "#73ad34",
+          "fillColor": "#014980",
+          "textColor": "#ff66ac"
+        }
+      ],
+      "descriptionHtml": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;toto&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+      "shortName": "test text",
+      "id": "widget_15paxrbiodp8v"
+    },
+    "widget_15p7o01nqr5tu": {
+      "styles": {
+        "headerColor": null,
+        "backgroundColor": null
+      },
+      "kind": "image",
+      "data": [
+        {
+          "url": "https://www.redditstatic.com/image-processing.png",
+          "width": 64,
+          "linkUrl": "https://example.com",
+          "height": 64
+        }
+      ],
+      "shortName": "test title",
+      "id": "widget_15p7o01nqr5tu"
+    },
+    "widget_15p7qwb2kxc6j": {
+      "styles": {
+        "headerColor": "#ffb000",
+        "backgroundColor": ""
+      },
+      "kind": "community-list",
+      "data": [
+        {
+          "iconUrl": "https://b.thumbs.redditmedia.com/lh3XYdayDnfF474A_Ro9fBWUViOibSr4BoTpx0ETyvg.png",
+          "name": "nba",
+          "subscribers": 3571840,
+          "primaryColor": "#ffa500",
+          "isSubscribed": true,
+          "type": "subreddit",
+          "communityIcon": "https://styles.redditmedia.com/t5_2qo4s/styles/communityIcon_1podsfdai4301.png?width=256&amp;s=90f8734cee5cfb8e06306013d830d43e31d68f27",
+          "isNSFW": false
+        },
+        {
+          "iconUrl": "",
+          "name": "golang",
+          "subscribers": 125961,
+          "primaryColor": "",
+          "isSubscribed": true,
+          "type": "subreddit",
+          "communityIcon": "https://styles.redditmedia.com/t5_2rc7j/styles/communityIcon_wy4riduoe9k11.png?width=256&amp;s=0d681daaa8d4b6271e6be788d0f9379f0661e04a",
+          "isNSFW": false
+        }
+      ],
+      "shortName": "test title",
+      "id": "widget_15p7qwb2kxc6j"
+    },
+    "widget_15osq4jms4tdo": {
+      "styles": {
+        "headerColor": null,
+        "backgroundColor": null
+      },
+      "kind": "custom",
+      "imageData": [
+        {
+          "url": "https://www.redditstatic.com/image-processing.png",
+          "width": 640,
+          "name": "test",
+          "height": 192
+        }
+      ],
+      "text": "some image",
+      "stylesheetUrl": "https://styles.redditmedia.com/t5_2uquw1/styles/customWidget-stylesheet-n2q86gjf04o51.css",
+      "height": 500,
+      "textHtml": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;some image&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+      "shortName": "custom image widget",
+      "id": "widget_15osq4jms4tdo",
+      "css": "* {}"
+    },
+    "widget_rules-2uquw1": {
+      "styles": {
+        "headerColor": "",
+        "backgroundColor": ""
+      },
+      "kind": "subreddit-rules",
+      "display": "compact",
+      "shortName": "Subreddit Rules",
+      "data": [
+        {
+          "violationReason": "post violation",
+          "description": "be nice",
+          "createdUtc": 1600057179.0,
+          "priority": 1,
+          "descriptionHtml": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;be nice&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "shortName": "post"
+        }
+      ],
+      "id": "widget_rules-2uquw1"
+    },
+    "widget_id-card-2uquw1": {
+      "styles": {
+        "headerColor": "",
+        "backgroundColor": ""
+      },
+      "kind": "id-card",
+      "description": "Community Description",
+      "subscribersText": "subscriberz",
+      "currentlyViewingCount": 3,
+      "subscribersCount": 2,
+      "currentlyViewingText": "viewerz",
+      "shortName": "Community Details",
+      "id": "widget_id-card-2uquw1"
+    },
+    "widget_15owrhqvgfhke": {
+      "styles": {
+        "headerColor": null,
+        "backgroundColor": null
+      },
+      "kind": "menu",
+      "data": [
+        {
+          "url": "https://example.com",
+          "text": "link1"
+        },
+        {
+          "text": "test",
+          "children": [
+            {
+              "url": "https://example.com",
+              "text": "link2"
+            },
+            {
+              "url": "https://example.com",
+              "text": "link3"
+            }
+          ]
+        }
+      ],
+      "id": "widget_15owrhqvgfhke",
+      "showWiki": true
+    },
+    "widget_moderators-2uquw1": {
+      "styles": {
+        "headerColor": null,
+        "backgroundColor": null
+      },
+      "kind": "moderators",
+      "mods": [
+        {
+          "name": "testuser",
+          "authorFlairType": "richtext",
+          "authorFlairTextColor": "dark",
+          "authorFlairBackgroundColor": "",
+          "authorFlairRichText": [
+            {
+              "e": "text",
+              "t": "test"
+            }
+          ],
+          "authorFlairText": "test"
+        }
+      ],
+      "totalMods": 1,
+      "id": "widget_moderators-2uquw1"
+    }
+  },
+  "layout": {
+    "idCardWidget": "widget_id-card-2uquw1",
+    "topbar": {
+      "order": ["widget_15owrhqvgfhke"]
+    },
+    "sidebar": {
+      "order": ["widget_rules-2uquw1", "widget_15osq4jms4tdo"]
+    },
+    "moderatorWidget": "widget_moderators-2uquw1"
+  }
+}
