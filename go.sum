@@ -1,6 +1,4 @@
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-github.com/TonyDMorris/go-reddit v1.0.0 h1:11lzSRI1bQtH4bS3FwUUKEPXqmVt+L1x0dwX7Z4ftnI=
-github.com/TonyDMorris/go-reddit v1.0.0/go.mod h1:MUJvSfTQ/pdrRfjh+kGnkpq3/YLw17QjP2DrVfcjPb4=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.2.0 h1:P3YflyNX/ehuJFLhxviNdFxQPkGK5cDcApsge1SqnvM=
