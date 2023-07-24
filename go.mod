@@ -1,4 +1,4 @@
-module github.com/TonyDMorris/go-reddit
+module github.com/tonydmorris/go-reddit
 
 go 1.20
 
